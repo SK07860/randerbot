@@ -1,0 +1,4 @@
+nextcord
+bs4
+pytemperature
+randfacts
